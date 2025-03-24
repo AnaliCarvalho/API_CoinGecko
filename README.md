@@ -6,7 +6,7 @@ Para esse desafio foi usado:
 - Postman
 - Java Doc (HttpClient, HttpRequest e HttpResponse)
 
-  ##Exemplo de uso ❗:
+  ###Exemplo de uso ❗:
   ![image](https://github.com/user-attachments/assets/86034a46-950f-4745-a1d5-febab8733203)
 
   
